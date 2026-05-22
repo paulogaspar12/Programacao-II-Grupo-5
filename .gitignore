@@ -1,0 +1,46 @@
+# Java & common IDEs
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+/bin/
+/out/
+/build/
+/target/
+
+# Gradle
+/.gradle/
+build/
+gradle-app.setting
+
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+/.idea/
+*.iml
+*.iws
+
+# VS Code
+/.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local env
+.env
+
+# Dependency directories
+/lib/
