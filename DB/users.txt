@@ -1,0 +1,5 @@
+1;admin;-969161597;ADMIN;Administrador;999999999;admin@oficina.com
+2;joao.mecanico;-320650059;MECANICO;João Silva;912345678;joao@oficina.com
+3;maria.cliente;1102888440;CLIENTE;Maria Santos;965432109;maria@email.com
+4;Novo;-498990184;ADMIN;Mano ze;91245678;novo123@gmail.com
+5;fernando.cliente;1102888440;CLIENTE;Fernando Alves;931323834;htgftgft

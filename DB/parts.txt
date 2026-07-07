@@ -1,0 +1,5 @@
+1;farol de fortuner;120000.12;10
+2;motor v8;1.5E7;3
+3;radiador;300000.0;7
+4;bateria 220v;400000.0;5
+5;motor i5;3.5E7;50

@@ -1,0 +1,5 @@
+1;edson.cliente;1102888440;CLIENTE;Edson;931323834;frn.ds@gmail.com
+2;fernando.cliente;1102888440;CLIENTE;Fernando Alves;931323834;ffgggh
+3;fernando.cliente;1102888440;CLIENTE;Fernando Alves;931323834;htgftgft
+4;paulo.cliente;1102888440;CLIENTE;Paulo Sergio;931323834;ghgfr
+5;evandro.cliente;1102888440;CLIENTE;Evandro Eusebio;931323834;gh
